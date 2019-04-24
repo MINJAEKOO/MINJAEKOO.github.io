@@ -6,7 +6,7 @@ date: 2019-04-24
 comments: false
 ---
     
-<center><a href="http://www.ddforensic.com"><b>WebSite</b></a> is my WebSite</center>
+<center>제 웹 사이트는 <a href="http://www.ddforensic.com"><b>WebSite</b></a> 입니다.</center>
 
 ## Features
 * Minimal, you can focus on your content
