@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 나의 
+title: 나의 소개 
 tags: [about, Jekyll, introduce, me, forensic, study]
 date: 2019-04-24
 comments: false
