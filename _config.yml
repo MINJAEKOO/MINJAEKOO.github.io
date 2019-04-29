@@ -52,7 +52,7 @@ instagram:          koo_min_jae
 #foursquare:        username
 #steam:              username
 #dribbble:          username
-#youtube:           username
+youtube:           username
 #youtube-channel:   channel
 #soundcloud:        username
 #weibo:             username
@@ -61,7 +61,6 @@ instagram:          koo_min_jae
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-wordpress:          www.ddforensic.com
 
 # Gems
 gems:
