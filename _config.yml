@@ -1,7 +1,7 @@
 # Site
 title:              KOO
-bio:                '안녕하세요.'
-description:        "Student."
+bio:                '안녕하세요.\n디지털포렌식을 공부하고 있는 학생입니다.'
+description:        "KOO MIN JAE."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
