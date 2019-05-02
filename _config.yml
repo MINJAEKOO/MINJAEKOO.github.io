@@ -5,7 +5,7 @@ bio:                '안녕하세요.
 description:        "KOO MIN JAE."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/gitlogo.png'
+logo:               'assets/img/gitlogo1.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
