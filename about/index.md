@@ -1,37 +1,41 @@
 ---
 layout: page
 title: 나의 소개 
-tags: [about, Jekyll, introduce, me, forensic, study]
-date: 2019-04-24
+tags: [about, introduce, me, forensic, study]
+date: 2019-05-03
 comments: false
 ---
     
 <center>제 웹 사이트는 <a href="http://www.ddforensic.com"><b>DDForensic.com</b></a>입니다.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Introduce
+제 홈페이지에 방문해주셔서 감사합니다. 저는 전주기전대학 포렌식정보보호과를 재학중인 구민재라고 합니다.
 
-## Preview
+현재 포렌식에 대해 공부를 하고 있고, 많은 것을 배우고 싶습니다.
+저에게 궁금하신 것이 있으시다면 alswo9087@naver.com로 메일 주시거나 페이스북 메세지 또는 인스타그램 DM을 통해 언제든지 연락주시기 바랍니다. 
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+## 학력사항
+* 2009.03 ~ 2012.02 마산중학교 졸업
+* 2012.03 ~ 2015.02 합포고등학교 졸업
+* 2015.03 ~ 현재    전주기전대학 재학 중
 
-## Getting Started
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+## 활동경력
+* 전산분야 동아리 활동(KUCIS 대학정보보호동아리연합회 - D-Zerone)
+    2015 - 부원
+    2016 - 회장
+    2019 - 부원
+* 2019 KUCIS 호남권 운영진
+* JISUU 전북권 정보보호연합동아리
+
+
+## 자격사항
+* 리눅스마스터 2급
+* AccessData ACE
+
+
+## 수상경력
+* 전주기전대학 제3회 프리창업경진대회 대상 수상
+* 전주기전대학 우수동아리 경진대회 대상 수상
+* 대한민국공군 2017해킹방어대회 특별상 수상
