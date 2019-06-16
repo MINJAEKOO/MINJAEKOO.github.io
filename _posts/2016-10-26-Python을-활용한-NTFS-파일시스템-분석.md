@@ -19,4 +19,4 @@ comments: true
 NTFS Filesystem Analysis With Python.
 
 
-<a href="../assets/ntfs.pptx">자료 다운로드</a>
+<a href="../assets/ntfs.pptx" download>자료 다운로드</a>
