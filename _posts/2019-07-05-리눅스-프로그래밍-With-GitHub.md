@@ -13,8 +13,8 @@ comments: true
 
 ## 1. GitHub 회원가입
 
-Github 링크 <https://www.github.com>
-Gitlab 링크 <https://www.gitlab.com>
+- Github 링크 <https://www.github.com>
+- Gitlab 링크 <https://www.gitlab.com>
 
 
 ## 2. Repository 생성
@@ -35,15 +35,15 @@ Gitlab 링크 <https://www.gitlab.com>
 
 ## 3. Git 주요 명령어 정리
 
-git config --global user.email "your@email.com"		사용자 이메일 지정
-git config --global user.name "yourname"		사용자 이름 지정
-git config --global --list				설정 확인
+*git config --global user.email "your@email.com"		사용자 이메일 지정
+*git config --global user.name "yourname"		사용자 이름 지정
+*git config --global --list				설정 확인
 
-git clone repository_link				clone 가져오기
-git status						작업 상태보기
-git add 파일명						저장소에 파일 추가
-git commit -m "Message"					Message를 지정하고 commit
-git push origin master					로컬저장소의 작업을 Repository로 전송
+*git clone repository_link				clone 가져오기
+*git status						작업 상태보기
+*git add 파일명						저장소에 파일 추가
+*git commit -m "Message"					Message를 지정하고 commit
+*git push origin master					로컬저장소의 작업을 Repository로 전송
 
 
 ## 4. 사용자의 입력을 받아 팩토리얼 구하는 프로그램 작성
