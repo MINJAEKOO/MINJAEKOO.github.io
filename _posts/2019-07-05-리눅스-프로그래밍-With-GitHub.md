@@ -41,7 +41,7 @@ comments: true
 
 * git clone repository_link				clone 가져오기
 * git status						작업 상태보기
-* git add 파일명						저장소에 파일 추가
+* git add 파일명					저장소에 파일 추가
 * git commit -m "Message"				Message를 지정하고 commit
 * git push origin master				로컬저장소의 작업을 Repository로 전송
 </pre>
