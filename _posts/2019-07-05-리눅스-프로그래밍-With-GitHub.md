@@ -35,7 +35,7 @@ comments: true
 
 ## 3. Git 주요 명령어 정리
 <pre>
-* git config --global user.email "your@email.com"		사용자 이메일 지정
+* git config --global user.email "your@email.com"	사용자 이메일 지정
 * git config --global user.name "yourname"		사용자 이름 지정
 * git config --global --list				설정 확인
 
