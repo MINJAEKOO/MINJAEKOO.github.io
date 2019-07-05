@@ -97,24 +97,24 @@ int sum(int n){
 
 빌드를 위해서 Makefile을 이용한다.
 
-{% raw %}
-#Makefile
-all: sum
+    {% raw %}
+    #Makefile
+    all: sum
 
-sum: sum.o main.o 
-	g++ -o sum sum.o main.o
+    sum: sum.o main.o 
+    	g++ -o sum sum.o main.o
 
-sum.o: sum.h sum.cpp
-	g++ -c -o sum.o sum.cpp
+    sum.o: sum.h sum.cpp
+    	g++ -c -o sum.o sum.cpp
 
-main.o: sum.h main.cpp
-	g++ -c -o main.o main.cpp
+    main.o: sum.h main.cpp
+    	g++ -c -o main.o main.cpp
 
-clean: 
-	rm -f sum.o main.o
-	rm -f sum
+    clean: 
+    	rm -f sum.o main.o
+    	rm -f sum
 
-{% endraw %}
+    {% endraw %}
 
 해당 파일을 작성한 후 make 명령어를 입력하면 sum이라는 실행 파일을 얻을 수 있다.<br>
 해당 파일을 실행해보면 사용자의 입력을 받아 해당 숫자의 팩토리얼을 구해주는 프로그램이 실행된다.
