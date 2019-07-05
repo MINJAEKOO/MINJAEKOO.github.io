@@ -52,7 +52,7 @@ comments: true
 
 main.cpp / sum.h / sum.cpp
 
-~~~cpp
+~~~c
 //main.cpp
 #include <cstdio>
 #include "sum.h"
