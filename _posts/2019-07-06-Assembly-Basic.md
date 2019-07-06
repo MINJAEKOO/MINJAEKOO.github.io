@@ -148,7 +148,7 @@ Hex Code를 보면 rax를 사용했지만 eax가 사용된 것을 확인할 수 
 ### x64 레지스터 Accumulatar
 <figure>
 	<a href="../assets/img/x64-1.png">
-  <img src="../assets/img/x64-1.png">
+  <img src="../assets/img/x64-1.png"></a>
 </figure>
 RBX, RCX, RDX도 위와 같다.<br>
 RSI는 esi(32), si(16), sil(8)이다.<br>
