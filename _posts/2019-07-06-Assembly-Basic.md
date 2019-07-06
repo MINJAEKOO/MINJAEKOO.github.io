@@ -21,10 +21,10 @@ comments: true
 ### Flowchart
 Binary Code -> Hex Code -> Assembly
 
-<pre>
+
 본 자료에서는 Intel 문법을 사용함.<br>
 Intel 메뉴얼 참고자료 : <https://software.intel.com/en-us/articles/intel-sdm>
-</pre>
+
 
 ## 2. Ubuntu Linux에서 실제 어셈블과 링킹을 해보자.
 
