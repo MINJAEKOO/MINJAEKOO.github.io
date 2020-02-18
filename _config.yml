@@ -1,14 +1,14 @@
 # Site
-title:              KOO
+title:              kooroot
 bio:                '안녕하세요. 디지털포렌식을 공부하고 있는 학생입니다.'
-description:        "KOO MIN JAE."
+description:        "I am kooroot."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/gitlogo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://minjaekoo.github.io
+url:                https://kooroot.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -40,7 +40,7 @@ disqus_shortname:   KOO
 #email:
 #twitter:            username
 facebook:           forensic.koo
-github-url:         MINJAEKOO
+github-url:         kooroot
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
