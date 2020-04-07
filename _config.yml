@@ -1,7 +1,7 @@
 # Site
 title:              kooroot
-bio:                '안녕하세요. 디지털포렌식을 공부하고 있는 학생입니다.'
-description:        "I am kooroot."
+bio:                'I am K00R00T.'
+description:        "I am k00r00t."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/gitlogo.png'
@@ -39,7 +39,7 @@ disqus_shortname:   KOO
 #bing-verify:
 #email:
 #twitter:            username
-facebook:           forensic.koo
+facebook:           kooroot
 github-url:         kooroot
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
